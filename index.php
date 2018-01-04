@@ -10,5 +10,5 @@
     include('template/header.php');
     include('template/navbar.php');
     include('template/form.php');
-    include('template/navbar.php');
+    include('template/footer.php');
 ?>
